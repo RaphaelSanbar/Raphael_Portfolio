@@ -13,3 +13,9 @@ This report investigates customer churn patterns for a fictional internet and ph
 The report was developed using SQL for data preprocessing, Power BI for visualisation and Excel for supplementary exploration. These tools facilitated the identification of actionable trends, enabling recommendations for customer retention strategies such as promoting longer-term contracts, addressing dissatisfaction among specific demographics, and reevaluating service offerings like fiber-optic internet.
 
 ## [Australian Population Dashboard](https://drive.google.com/file/d/1mWhI3DpqPoJX7E7o0ATMkzVoj8U3cFzw/view)
+
+This downloadable Power BI dashboard provides an interactive visualisation of population changes in Australian cities across two distinct periods: 2011–2017 and 2017–2023. The dashboard enables users to explore growth patterns, demographic shifts, and city-specific trends through dynamic visualisations such as line charts, bar charts, and geographical maps.
+
+Key findings include identifying cities with the fastest-growing populations, areas experiencing demographic stagnation, and variations in growth rates between the two periods. The dashboard offers an intuitive interface for analysing these patterns, providing insights valuable to urban planners, policymakers, and researchers.
+
+The dashboard was developed using Power BI, with data cleaning and preparation conducted in SQL. It emphasises ease of use, offering filters and drill-through capabilities to facilitate a comprehensive exploration of population trends.
